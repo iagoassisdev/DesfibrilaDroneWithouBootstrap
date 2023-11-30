@@ -13,3 +13,4 @@ OBS:
   - Utilizado Bootstrap CSS(REMOVIDO POR SOLICITAÇÃO DE TERCEIROS), Jquery e Carousel.
   - Após site totalmente finalizado, o mesmo foi refatorado e estilizado por CSS manualmente.
   - Removido a responsividade do site, após apontamento da falta de necessidade.
+  - Integrado CHATBOT(Watson)
